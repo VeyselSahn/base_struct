@@ -1,1 +1,2 @@
-export 'get-parameters/get_parameters.dart';
+export 'get-balance/get-balance.dart';
+export 'get-parameters/get-parameters.dart';
